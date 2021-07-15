@@ -1,0 +1,20 @@
+~~ TEST NUMBER 1 ~~
+./test.sh: line 7: ./calc: No such file or directory
+~~ TEST NUMBER 2 ~~
+./test.sh: line 7: ./calc: No such file or directory
+~~ TEST NUMBER 3 ~~
+./test.sh: line 7: ./calc: No such file or directory
+~~ TEST NUMBER 4 ~~
+./test.sh: line 7: ./calc: No such file or directory
+~~ TEST NUMBER 5 ~~
+./test.sh: line 7: ./calc: No such file or directory
+~~ TEST NUMBER 6 ~~
+./test.sh: line 7: ./calc: No such file or directory
+~~ TEST NUMBER 7 ~~
+./test.sh: line 7: ./calc: No such file or directory
+~~ TEST NUMBER 8 ~~
+./test.sh: line 7: ./calc: No such file or directory
+~~ TEST NUMBER 9 ~~
+./test.sh: line 7: ./calc: No such file or directory
+~~ TEST NUMBER 10 ~~
+./test.sh: line 7: ./calc: No such file or directory
